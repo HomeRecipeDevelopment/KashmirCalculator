@@ -1,0 +1,9 @@
+D:\Programming\Kashmir\Kashmir\Kashmir\bin\Debug\Kashmir.exe.config
+D:\Programming\Kashmir\Kashmir\Kashmir\bin\Debug\Kashmir.exe
+D:\Programming\Kashmir\Kashmir\Kashmir\bin\Debug\Kashmir.pdb
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.csprojResolveAssemblyReference.cache
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.Properties.Resources.resources
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.csproj.GenerateResource.Cache
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.exe
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.pdb
+D:\Programming\Kashmir\Kashmir\Kashmir\obj\Debug\Kashmir.FrmCalc.resources
